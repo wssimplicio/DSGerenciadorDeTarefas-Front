@@ -29,4 +29,4 @@ Este projeto é o Front-End usado na API de Gerenciamento de tarefas
 ![App Screenshot 1](public/assets/Front1.png)
 
 
-![App Screenshot 2](public/assets/Front1.png)
+![App Screenshot 2](public/assets/Front2.png)
